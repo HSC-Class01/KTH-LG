@@ -1,0 +1,23 @@
+{
+  "company_name": "LG전자",
+  "stock_code": "066570",
+  "corp_code": "",
+  "start_year": 2010,
+  "peer_firms": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "가전·전자 종합기업"
+    },
+    {
+      "name": "삼성전기",
+      "ticker": "009150",
+      "note": "전자부품"
+    },
+    {
+      "name": "위닉스",
+      "ticker": "044340",
+      "note": "생활가전 일부 제품군"
+    }
+  ]
+}
